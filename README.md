@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-API-black?style=for-the-badge&logo=flask)
-![OpenAI](https://img/shields.io/badge/OpenAI-GPT--40-green?style=for-the-badge&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--40-green?style=for-the-badge&logo=openai)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=tavascript)
 ![HTML5](https://img.shields.io/badge/HTML5-Web-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Style-blue?style=for-the-badge&logo=css3)
